@@ -21,3 +21,6 @@ Now we want to add the simulation part.
 
 # Methodology
 We compared the results, but F I miised the notes. Smith et all 2022
+
+# Results
+The simulation indicate that coagulation is the dominent
