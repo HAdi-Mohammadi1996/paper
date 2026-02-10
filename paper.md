@@ -18,3 +18,6 @@ measurements in the literature can be applied at the regional state.
 
 # simulations
 Now we want to add the simulation part. 
+
+# Methodology
+We compared the results, but F I miised the notes. Smith et all 2022
