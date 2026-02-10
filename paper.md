@@ -1,4 +1,5 @@
 # Title
+Loving the idea of joining GitHub class 
 Aging of biomass burning aerosols over West Africa
 
 # Author
