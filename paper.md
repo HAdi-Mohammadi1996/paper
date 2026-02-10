@@ -24,3 +24,7 @@ We compared the results, but F I miised the notes. Smith et all 2022
 
 # Results
 The simulation indicate that coagulation is the dominent
+
+# Figures
+Figures go in their own section in a draft paper.
+
